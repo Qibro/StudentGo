@@ -1,0 +1,39 @@
+
+body {
+    background-color: whitesmoke;
+    padding: 4rem;
+}
+
+.buttonLight {
+    text-decoration: none;
+    text-transform: none;
+    font-size: 20px;
+    text-align: center;
+    color: #2A2A2A;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    padding: 15px 5rem 15px 5rem;
+    background-color: white;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 0px 0px rgba(20,39,78,1);
+    -moz-box-shadow: 4px 4px 0px 0px rgba(20,39,78,1);
+    box-shadow: 4px 4px 0px 0px rgba(20,39,78,1);
+    margin: 2rem;
+}
+
+.buttonDark {
+    text-decoration: none;
+    text-transform: none;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    padding: 15px 5rem 15px 5rem;
+    background-color: #14274E;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 0px 0px rgba(42,42,42,1);
+    -moz-box-shadow: 4px 4px 0px 0px rgba(42,42,42,1);
+    box-shadow: 4px 4px 0px 0px rgba(42,42,42,1);
+    margin: 2rem;
+}

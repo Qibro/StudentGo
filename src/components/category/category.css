@@ -1,0 +1,89 @@
+
+.categoryContainer {
+    background-color: whitesmoke;
+    padding: 4rem;
+}
+
+.categoryYellow {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(263.12deg, #F98404 2.92%, #DB6600 106.19%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 0.5rem;
+}
+
+.categoryRed {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(263.93deg, #C31E31 0.81%, #AF001D 112.89%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 0.5rem;
+}
+
+.categoryBlue {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(262.13deg, #39A2DB 5.6%, #1B84BD 103.8%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 2rem;
+}
+
+.categoryBrown {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(262.97deg, #865439 4.39%, #68361B 105.69%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 0.5rem;
+}
+
+.categoryViolet {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(254.05deg, #AC66CC 38.89%, #8E48AE 95.14%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 0.5rem;
+}
+
+.categoryGreen {
+    font-family: 'Nunito', sans-serif;
+    padding: 30px 90px 30px 90px;
+    border-radius: 13px;
+    background: linear-gradient(261.98deg, #A3A847 4.49%, #858A29 94.63%);
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin: 0.5rem;
+}

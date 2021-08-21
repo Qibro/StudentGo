@@ -1,0 +1,14 @@
+
+.containerCoverBeasiswa {
+    background-color: whitesmoke;
+    padding: 2rem;
+}
+
+.coverBeasiswa {
+    width: 224px;
+    height: 315.59px;
+    filter: drop-shadow(4px 4px 0px #14274E);
+    object-fit: contain;
+    border-radius: 20px;
+}
+

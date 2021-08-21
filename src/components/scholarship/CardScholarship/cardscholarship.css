@@ -1,0 +1,37 @@
+
+.cardScholarshipContainer {
+    background-color: whitesmoke;
+}
+
+.cardScholarship {
+    width: 450px;
+    height: 151px;
+    font-family: 'Mulish', sans-serif;
+    background-color: white;
+    border-radius: 13.92px;
+    box-shadow: 0px 2.78232px 2.78232px rgba(0, 0, 0, 0.15);
+    margin: 20px;
+}
+
+.cardScholarshipImg {
+    float: left;
+    width: 151px;
+    height: 151px;
+    border-radius: 13.92px;
+    margin-right: 20px;
+    object-fit: cover;
+    filter: drop-shadow(2.78232px 0px 0px #14274E);
+}
+
+.cardScholarshipContent {
+    padding: 5px;
+}
+
+.cardScholarshipTitle {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cardScholarshipDetail {
+    font-size: 12px;
+}

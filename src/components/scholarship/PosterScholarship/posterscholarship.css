@@ -1,0 +1,36 @@
+.containerCard {
+    background-color: whitesmoke;
+    padding: 2rem;
+}
+
+.cardBeasiswa {
+    box-shadow: 4px 4px 0px #14274E;
+    font-family: 'Nunito', sans-serif;
+    transition: 0.3s;
+    width: "100%";
+    border-radius: 20px;
+  }
+
+.cardImg {
+    border-radius: 20px 20px 0 0;
+}
+
+.cardBeasiswaContent {
+    padding: 2px 16px;
+  }
+
+.beasiswaTitle {
+    font-size: 16px;
+    color: #2a2a2a;
+    font-weight: bold;
+    padding-top: 8px;
+}
+
+.beasiswaDate {
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    background: linear-gradient(102.23deg, #871E1E -15.3%, #BE0A00 113.95%);
+    border-radius: 5px;
+    padding: 5px;
+}
